@@ -4,4 +4,4 @@ quote: tera pyaar pyaar hookah bar
 github_user: adrijaasenn
 class: 11K
 roll_no: 04
-link: git@github.com:adrijaasenn/shop-data.git
+link: https://github.com/adrijaasenn/shop-data/blob/main/day_in_day_out.py
